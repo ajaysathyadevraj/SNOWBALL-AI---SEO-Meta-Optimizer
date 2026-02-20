@@ -4,6 +4,16 @@ An embedded Shopify app that fetches products, scores their SEO quality, display
 
 ---
 
+## 🚀 Live Demo & Repository
+
+- **Dev Store App URL**: [snowball-seo-optimizer](https://admin.shopify.com/store/snowball-ai-seo-app/apps/snowball-seo-optimizer)
+- **Repository**: [SNOWBALL-AI-SEO-Meta-Optimizer](https://github.com/ajaysathyadevraj/SNOWBALL-AI-SEO-Meta-Optimizer)
+
+The app is currently hosted on **Render.com** to ensure maximum uptime for the dev store evaluation.
+
+---
+
+
 ## Quick Start
 
 ### Prerequisites
