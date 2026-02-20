@@ -2,7 +2,7 @@
 
 client_id = "f8f1e17ee3c443b6cecb46370652ec43"
 name = "snowball-seo-optimizer"
-application_url = "https://snowball-seo-optimizer.com"
+application_url = "https://snowball-ai-seo-meta-optimizer.onrender.com"
 embedded = true
 
 [build]
@@ -30,7 +30,7 @@ scopes = "read_products,write_products"
 
 [auth]
 redirect_urls = [
-  "https://snowball-seo-optimizer.com/auth/callback",
-  "https://snowball-seo-optimizer.com/auth/shopify/callback",
-  "https://snowball-seo-optimizer.com/api/auth/callback"
+  "https://snowball-ai-seo-meta-optimizer.onrender.com/auth/callback",
+  "https://snowball-ai-seo-meta-optimizer.onrender.com/auth/shopify/callback",
+  "https://snowball-ai-seo-meta-optimizer.onrender.com/api/auth/callback"
 ]
