@@ -144,7 +144,6 @@ Each product stores `shopifyUpdatedAt` (the `updatedAt` timestamp from Shopify's
 
 | Area | Improvement |
 |------|-------------|
-| **Database** | Switch from SQLite to Postgres (connection pooling, concurrent writes) |
 | **Job Queue** | Move `syncProducts` to a background job (Bull/Inngest) — don't block the HTTP response |
 | **Rate Limiting** | Implement Shopify GraphQL cost tracking + retry-after backoff |
 | **Webhooks** | Add a dead-letter queue + retry mechanism for failed webhook processing |
