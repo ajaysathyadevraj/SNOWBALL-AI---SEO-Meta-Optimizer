@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm/
+
+# Build
+.react-router/
+build/
+dist/
+.cache/
+
+# Shopify
+.shopify/
+
+# Environment
+.env
+.env.test
+.env.local
+
+# Database
+prisma/dev.sqlite
+prisma/dev.sqlite-journal
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
